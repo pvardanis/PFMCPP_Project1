@@ -33,6 +33,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
+liquid.solidify();
+liquid.spill();
+liquid.flow();
 
 
 /*
@@ -42,6 +45,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
+ student.attendClasses();
+ student.makeReports();
+ student.giveExams();
 
 /*
  3)
@@ -50,7 +56,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
-
+foot.kick();
+foot.shave();
+foot.wearShoe();
 
 /*
  4)
@@ -59,6 +67,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
+ clock.rotate();
+ clock.reset();
+ clock.changeBattery();
 
 /*
  5)
@@ -67,7 +78,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
-
+bike.fix();
+bike.ride();
+bike.wash();
 
 /*
  6)
@@ -76,6 +89,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
+human.born();
+human.liveLife();
+human.die();
 
 /*
  7)
@@ -84,7 +100,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
-
+oscillator.frequency();
+oscillator.type();
+oscillator.maxValue();
 
 /*
  8)
@@ -93,6 +111,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
+ house.payBills();
+ house.clean();
+ house.sell();
 
 /*
  9)
@@ -101,7 +122,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
-
+kitchen.cutVegetables();
+kitchen.boilWater();
+kitchen.washDishes();
 
 /*
  10)
@@ -110,7 +133,9 @@ arm.rotateCounterClockwise(); //demonstrates CamelCase
  action 2:
  action 3:
  */
-
+audioEngineer.prepareStems();
+audioEngineer.addEffects();
+audioEngineer.record();
 
 #endif
 
